@@ -88,7 +88,7 @@ module.exports = {
       logo: {
         alt: 'Awesome-Showcase',
         src: 'img/logo.svg',
-        srcDark: 'img/logo_dark.svg',
+        srcDark: 'img/logo.svg',
       },
       items: [
         {
@@ -324,7 +324,7 @@ module.exports = {
         },
       ],
       logo: {
-        alt: 'IOTA Logo',
+        alt: 'Showcase Logo',
         src: 'img/logo.svg',
         href: 'https://www.showcase.docker.com',
       },
